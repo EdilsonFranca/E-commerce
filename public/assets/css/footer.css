@@ -1,0 +1,87 @@
+
+/*footer inicio*/
+
+.rodape-principa {
+    font-family: 'Mukta', sans-serif;
+    color: #fff;
+    font-size: 1em;
+}
+
+.section-title {
+    width: 100%;
+    display: block;
+    position: relative;
+    color: #fb3c03;
+    font-size: 21px;
+    margin: 20px 0;
+}
+
+.linha {
+    width: 30%;
+    display: block;
+    height: 3px;
+    position: absolute;
+    top: 15px;
+    z-index: 1;
+    background: #fb3c03;
+}
+
+.linha-2 {
+    position: relative;
+    background-color: #fff;
+    padding-right: 5px;
+    z-index: 10;
+}
+
+
+.rodape-principa-row-col-3-span {
+    text-transform: uppercase;
+    font-size: 16px;
+    position: relative;
+    color: black;
+}
+
+.rodape-principa-row-col-3-span:before {
+    content: '';
+    position: absolute;
+    width: 50px;
+    height: 3px;
+    background: #D62598;
+    top: 30px;
+    left: 0;
+    right: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.item‐icone-rodape {
+    fill: #3b3c3d;
+    width: 25px;
+    height: 25px;
+}
+
+.contato-rodape>p>.link-whatsapp {
+    color: #000
+}
+
+.footer-botton {
+    height: 40px;
+    background: #3b3c3d;
+}
+
+.item‐icone-rodape-botton {
+    fill: #fff;
+    width: 35px;
+    height: 35px;
+}
+
+.rodape.container-fluid {
+    min-height: 300px;
+}
+.copyright{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+/*footer fim*/

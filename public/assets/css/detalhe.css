@@ -1,0 +1,42 @@
+.mySlides {
+    display: none;
+}
+
+.mySlides>img {
+    height: 550px;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.imagem-principal {
+    max-height: 500px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.demo {
+    opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+    opacity: 1;
+}
+
+.table td {
+    padding: 7px;
+}
+
+.redes-sociais {
+    font-size: 2.0em;
+}
+
+input:checked+label {
+    border: 3px solid red;
+}

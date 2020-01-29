@@ -1,0 +1,14 @@
+.foto-carrinho {
+    width: 150px;
+    height: 150px;
+}
+
+.foto-carrinho>img {
+    width: 100%;
+    height: 100%;
+}
+
+.box-lateral-finalizar {
+    border: 1px solid #000;
+    border-top: 4px solid blue;
+}

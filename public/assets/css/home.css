@@ -1,0 +1,62 @@
+ul{
+    list-style-type: none;
+}
+
+.banner-principal {
+    height: 400px;
+}
+
+.carousel-item {
+    height: 350px;
+    text-align: center;
+}
+.vestido-numero{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    z-index: 20;
+    color: red;
+}
+.vestido-cores{
+    position: absolute;
+    bottom: 30px;
+    right: 10px;
+    z-index: 20;
+}
+
+
+.img-carrosel-mult {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.section-destaque-two {
+    height: 200px;
+}
+
+
+.p-etiqueta {
+    position: absolute;
+    width: 200px;
+    z-index: 100;
+    color: #000;
+    margin-right: 0;
+    margin-left: 0;
+    left: 0;
+    right: 0;
+}
+
+/*animação busca*/
+.li-biju {
+    width: 150px;
+    height: 130px;
+    list-style: none;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
